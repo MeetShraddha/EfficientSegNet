@@ -1,0 +1,20 @@
+# EfficientSegNet Requirements
+
+# Core dependencies
+torch>=1.9.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+tqdm>=4.50.0
+
+# Optional dependencies for advanced features
+scipy>=1.5.0           # For numerical operations
+scikit-learn>=0.24.0   # For metrics and preprocessing
+pillow>=8.0.0          # For image handling
+opencv-python>=4.5.0   # For computer vision operations
+
+# Development dependencies (optional)
+pytest>=6.0.0          # For testing
+black>=21.0            # For code formatting
+flake8>=3.9.0          # For linting
+jupyter>=1.0.0         # For notebooks
+tensorboard>=2.0.0     # For training visualization
