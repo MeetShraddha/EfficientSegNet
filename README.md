@@ -399,7 +399,7 @@ efficient_segnet/
 If you use this implementation, please cite the accompanying research paper:
 
 ```bibtex
-@article{efficientSegNet2024,
+@article{efficientSegNet2026,
   title={Real-Time Uncertainty-Aware Point Cloud Segmentation for Autonomous Robotic Manipulation},
   author={Shraddha Sharma},
   year={2026}
