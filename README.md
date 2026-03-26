@@ -419,10 +419,11 @@ For issues, questions, or contributions:
 
 ## References
 
-1. Qi et al. (2017). "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space"
-2. Gal & Ghahramani (2016). "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning"
-3. Kendall & Gal (2017). "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?"
-4. Berman et al. (2018). "The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-over-Union Measure in Neural Networks"
+1. J Chen et al. "LRGNet: Learnable Region Growing for Class-Agnostic Point Cloud Segmentation"
+2. Qi et al. (2017). "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space"
+3. Gal & Ghahramani (2016). "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning"
+4. Kendall & Gal (2017). "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?"
+5. Berman et al. (2018). "The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-over-Union Measure in Neural Networks"
 
 ---
 
