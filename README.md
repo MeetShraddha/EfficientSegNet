@@ -401,9 +401,8 @@ If you use this implementation, please cite the accompanying research paper:
 ```bibtex
 @article{efficientSegNet2024,
   title={Real-Time Uncertainty-Aware Point Cloud Segmentation for Autonomous Robotic Manipulation},
-  author={Anonymous},
-  journal={Proceedings of the 2024 Conference},
-  year={2024}
+  author={Shraddha Sharma},
+  year={2026}
 }
 ```
 
