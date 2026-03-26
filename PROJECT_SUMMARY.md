@@ -433,20 +433,20 @@ def my_metric(predictions, targets):
 
 ## References
 
-1. **PointNet++**: Qi et al. (2017) - Hierarchical feature learning
-2. **Bayesian Uncertainty**: Gal & Ghahramani (2016) - MC dropout
-3. **Concrete Dropout**: Gal et al. (2017) - Learned dropout
-4. **Panoptic Quality**: Kirillov et al. (2019) - Instance evaluation
-5. **Lovász Loss**: Berman et al. (2018) - IoU optimization
+1. **LRGNet**: J Chen et al. - Learnable Region Growing
+2. **PointNet++**: Qi et al. (2017) - Hierarchical feature learning
+3. **Bayesian Uncertainty**: Gal & Ghahramani (2016) - MC dropout
+4. **Concrete Dropout**: Gal et al. (2017) - Learned dropout
+5. **Panoptic Quality**: Kirillov et al. (2019) - Instance evaluation
+6. **Lovász Loss**: Berman et al. (2018) - IoU optimization
 
 ## Citation
 
 ```bibtex
-@article{efficientSegNet2024,
+@article{efficientSegNet2026,
   title={Real-Time Uncertainty-Aware Point Cloud Segmentation for Autonomous Robotic Manipulation},
-  author={Anonymous},
-  journal={Proceedings of the 2024 Conference},
-  year={2024}
+  author={Shraddha Sharma},
+  year={2026}
 }
 ```
 
@@ -461,5 +461,5 @@ For issues or questions:
 ---
 
 **Version:** 1.0.0  
-**Last Updated:** 2024  
+**Last Updated:** 2026 
 **Status:** Complete, tested implementation
