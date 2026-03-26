@@ -405,59 +405,61 @@ Future work should extend this direction toward real-time Bayesian segmentation 
 
 ## References
 
-[1] Rabbani, T., Van den Heuvel, F., & Janse, G. (2006). Segmentation of point clouds using smoothness constraint. *International archives of photogrammetry, remote sensing and spatial information sciences*, 36(5), 248-253.
+[1]Chen, J., Kira, Z.; Cho, Y. LRGNet: Learnable Region Growing for Class-Agnostic Point Cloud Segmentation. *IEEE Robotics and Automation Letters*, 6(1).
 
-[2] Qi, C. R., Su, H., Mo, K., & Guibas, L. J. (2017). Pointnet: Deep learning on point sets for 3d classification and segmentation. In *CVPR*, 652-660.
+[2] Rabbani, T., Van den Heuvel, F., & Janse, G. (2006). Segmentation of point clouds using smoothness constraint. *International archives of photogrammetry, remote sensing and spatial information sciences*, 36(5), 248-253.
 
-[3] Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning on point sets in a metric space. In *NeurIPS*, 5099-5108.
+[3] Qi, C. R., Su, H., Mo, K., & Guibas, L. J. (2017). Pointnet: Deep learning on point sets for 3d classification and segmentation. In *CVPR*, 652-660.
 
-[4] Anonymous (2023). Learnable region growing for class-agnostic point cloud segmentation. In *ICCV*.
+[4] Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning on point sets in a metric space. In *NeurIPS*, 5099-5108.
 
-[5] Wang, Y., Sun, Y., Liu, Z., Sarma, S. E., Bronstein, M. M., & Solomon, J. M. (2019). Dynamic graph cnn for learning on point clouds. *ACM Transactions on Graphics (TOG)*, 38(5), 1-12.
+[5] Anonymous (2023). Learnable region growing for class-agnostic point cloud segmentation. In *ICCV*.
 
-[6] Zhao, H., Jiang, L., Jia, J., Torr, P. H., & Koltun, V. (2021). Point transformer. In *ICCV*, 16259-16268.
+[6] Wang, Y., Sun, Y., Liu, Z., Sarma, S. E., Bronstein, M. M., & Solomon, J. M. (2019). Dynamic graph cnn for learning on point clouds. *ACM Transactions on Graphics (TOG)*, 38(5), 1-12.
 
-[7] Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). Simple and scalable predictive uncertainty estimation using deep ensembles. In *NeurIPS*, 6402-6413.
+[7] Zhao, H., Jiang, L., Jia, J., Torr, P. H., & Koltun, V. (2021). Point transformer. In *ICCV*, 16259-16268.
 
-[8] Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. *JMLR*, 15(56), 1929-1958.
+[8] Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). Simple and scalable predictive uncertainty estimation using deep ensembles. In *NeurIPS*, 6402-6413.
 
-[9] Gal, Y., & Ghahramani, Z. (2016). Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In *ICML*, 1050-1059.
+[9] Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. *JMLR*, 15(56), 1929-1958.
 
-[10] Hendrycks, D., & Gimpel, K. (2017). A baseline for detecting misclassified and out-of-distribution examples in neural networks. In *ICLR*.
+[10] Gal, Y., & Ghahramani, Z. (2016). Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In *ICML*, 1050-1059.
 
-[11] Freeman, L. C. (1965). Elementary applied statistics: for students in behavioral science. *John Wiley & Sons*.
+[11] Hendrycks, D., & Gimpel, K. (2017). A baseline for detecting misclassified and out-of-distribution examples in neural networks. In *ICLR*.
 
-[12] Ben-David, S., Blitzer, J., Ganea, O. P., & Perez-Cruz, F. (2010). Domain adaptation with multiple domain discriminators. *arXiv preprint arXiv:1009.0141*.
+[12] Freeman, L. C. (1965). Elementary applied statistics: for students in behavioral science. *John Wiley & Sons*.
 
-[13] Saxena, A., Ng, A. Y., & University, S. (2008). Robotic grasping of novel objects using vision. *International Journal of Robotics Research*, 27(2), 157-173.
+[13] Ben-David, S., Blitzer, J., Ganea, O. P., & Perez-Cruz, F. (2010). Domain adaptation with multiple domain discriminators. *arXiv preprint arXiv:1009.0141*.
 
-[14] Hinton, G., Vanhoucke, V., & Dean, J. (2015). Distilling the knowledge in a neural network. *arXiv preprint arXiv:1503.02531*.
+[14] Saxena, A., Ng, A. Y., & University, S. (2008). Robotic grasping of novel objects using vision. *International Journal of Robotics Research*, 27(2), 157-173.
 
-[15] Han, S., Pool, J., Tran, J., & Dally, W. (2015). Learning both weights and connections for efficient neural network. In *NeurIPS*, 1135-1143.
+[15] Hinton, G., Vanhoucke, V., & Dean, J. (2015). Distilling the knowledge in a neural network. *arXiv preprint arXiv:1503.02531*.
 
-[16] Zhou, S., Wu, Y., Ni, Z., Zhou, X., Wen, H., & Zou, Y. (2016). Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients. *arXiv preprint arXiv:1606.06160*.
+[16] Han, S., Pool, J., Tran, J., & Dally, W. (2015). Learning both weights and connections for efficient neural network. In *NeurIPS*, 1135-1143.
 
-[17] Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). Mobilenets: Efficient convolutional neural networks for mobile vision applications. *arXiv preprint arXiv:1704.04861*.
+[17] Zhou, S., Wu, Y., Ni, Z., Zhou, X., Wen, H., & Zou, Y. (2016). Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients. *arXiv preprint arXiv:1606.06160*.
 
-[18] Tan, M., & Le, Q. (2019). Efficientnet: Rethinking model scaling for convolutional neural networks. In *ICML*, 6105-6114.
+[18] Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). Mobilenets: Efficient convolutional neural networks for mobile vision applications. *arXiv preprint arXiv:1704.04861*.
 
-[19] Thomas, H., Qi, C. R., Dou, J. E., Guibas, L. J., Li, Y., & Snavely, N. (2019). KPConv: Flexible and deformable convolution for point clouds. In *ICCV*, 6411-6420.
+[19] Tan, M., & Le, Q. (2019). Efficientnet: Rethinking model scaling for convolutional neural networks. In *ICML*, 6105-6114.
 
-[20] Eldar, Y., Lindenbaum, M., Porat, M., & Zeevi, Y. Y. (1997). The farthest point strategy for progressive image sampling. *IEEE Transactions on Image Processing*, 6(9), 1305-1315.
+[20] Thomas, H., Qi, C. R., Dou, J. E., Guibas, L. J., Li, Y., & Snavely, N. (2019). KPConv: Flexible and deformable convolution for point clouds. In *ICCV*, 6411-6420.
 
-[21] Gal, Y., Hron, J., & Kendall, A. (2017). Concrete dropout. In *NeurIPS*, 3581-3590.
+[21] Eldar, Y., Lindenbaum, M., Porat, M., & Zeevi, Y. Y. (1997). The farthest point strategy for progressive image sampling. *IEEE Transactions on Image Processing*, 6(9), 1305-1315.
 
-[22] Berman, M., Rannen Triki, A., & Blaschko, M. B. (2018). The lovász-softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks. In *CVPR*, 4413-4421.
+[22] Gal, Y., Hron, J., & Kendall, A. (2017). Concrete dropout. In *NeurIPS*, 3581-3590.
 
-[23] Pham, Q. H., Nguyen, D. T., Hua, B. S., Roig, G., & Yeung, S. K. (2019). JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields. In *CVPR*, 8827-8836.
+[23] Berman, M., Rannen Triki, A., & Blaschko, M. B. (2018). The lovász-softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks. In *CVPR*, 4413-4421.
 
-[24] Shi, S., Wang, X., & Li, H. (2019). PointRCNN: 3d object detection from raw point clouds. In *CVPR*, 10406-10415.
+[24] Pham, Q. H., Nguyen, D. T., Hua, B. S., Roig, G., & Yeung, S. K. (2019). JSIS3D: Joint semantic-instance segmentation of 3D point clouds with multi-task pointwise networks and multi-value conditional random fields. In *CVPR*, 8827-8836.
 
-[25] Satish, V., Mahler, J., & Goldberg, K. (2019). Fully convolutional grasp detection networks with oriented anchor boxes. In *IROS*, 6047-6054.
+[25] Shi, S., Wang, X., & Li, H. (2019). PointRCNN: 3d object detection from raw point clouds. In *CVPR*, 10406-10415.
 
-[26] Osband, I., Wen, Z., Agrawal, S., Dai, B., Graves, A., Larson, A., & Levin, J. (2021). Epistemic neural networks. *Advances in Neural Information Processing Systems*, 34, 4405-4417.
+[26] Satish, V., Mahler, J., & Goldberg, K. (2019). Fully convolutional grasp detection networks with oriented anchor boxes. In *IROS*, 6047-6054.
 
-[27] Blei, D. M., Kucukelbir, A., & McAdams, J. D. (2017). Variational inference: A review for statisticians. *Journal of the American statistical association*, 112(518), 859-877.
+[27] Osband, I., Wen, Z., Agrawal, S., Dai, B., Graves, A., Larson, A., & Levin, J. (2021). Epistemic neural networks. *Advances in Neural Information Processing Systems*, 34, 4405-4417.
+
+[28] Blei, D. M., Kucukelbir, A., & McAdams, J. D. (2017). Variational inference: A review for statisticians. *Journal of the American statistical association*, 112(518), 859-877.
 
 ---
 
